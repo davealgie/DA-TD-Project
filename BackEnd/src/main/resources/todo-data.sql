@@ -1,0 +1,1 @@
+insert into todo(name, priority) VALUES('This is a test yep', 1);

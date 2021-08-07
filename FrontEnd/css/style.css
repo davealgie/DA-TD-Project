@@ -1,0 +1,15 @@
+* {
+    font-family: italic small-caps bold 16px/2 cursive;
+}
+
+div {
+    background-color: #b4aeae;
+    border-radius: 4px;
+}
+
+
+table, th, td {
+    border: black 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
