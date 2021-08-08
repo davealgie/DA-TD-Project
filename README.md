@@ -39,7 +39,12 @@ In order to get our application setup, we need to follow the below instructions.
 - David Algie
 
 # Acknowledgments
-
 - Thank you trainers who have helped me throughout this project.
 - Thank you google for being the fixers of my errors!
 - Shout out to George Whyte for listening to me complain while attempting to fix my issues.
+
+# Running the tests
+The tests have both Integration and Unit tests, to run the integration you right click in tests on the file ToDoTest and run as a Junit, while for the unit tests, do the same for the ToDoUnitTest. JUnit and Integration tests surpass the industry standard requirment of 80%.
+
+# Selenium Tests:
+A chrome web driver was added to the files of the project so that Selenium tests can be run. Going to a Selenium test and right clicking Run as a Junit Test will run it for you. They test the functionality of the website, So the CRUD functions and asserting to test whether they we're successful.
