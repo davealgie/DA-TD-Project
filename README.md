@@ -22,11 +22,12 @@ In order to get our application setup, we need to follow the below instructions.
 - The application will open from the browser and we are ready to play with it. You will be presented with a Homepage and a To Do list page.
 
 # Running the tests
+
 ![JUnitCoverage](https://user-images.githubusercontent.com/18862661/128646064-399602e4-b678-4ea7-ae63-0fc6b3689813.png)
 
 The tests have both Integration and Unit tests, to run the integration you right click in tests on the file ToDoTest and run as a Junit, while for the unit tests, do the same for the ToDoUnitTest. JUnit and Integration tests surpass the industry standard requirment of 80%.
 
-![JUnittests](https://user-images.githubusercontent.com/18862661/128646065-d2d7e9bd-332b-49b5-8b4e-0a501ff348a2.png)
+![JUnitCoverage](https://user-images.githubusercontent.com/18862661/128646064-399602e4-b678-4ea7-ae63-0fc6b3689813.png)
 # Selenium Tests:
 A chrome web driver was added to the files of the project so that Selenium tests can be run. Going to a Selenium test and right clicking Run as a Junit Test will run it for you. They test the functionality of the website, So the CRUD functions and asserting to test whether they we're successful.
 
