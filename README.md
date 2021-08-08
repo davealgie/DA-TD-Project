@@ -7,24 +7,33 @@ In order to run and test the application you firstly require Java(v1.8 onward), 
 # Prerequisites
 In order to get our application setup, we need to follow the below instructions.
 
-(1) Clone this repository to your local machine.
+- Clone this repository to your local machine.
 
-(2) Open the backend folder with Eclipse IDE.
+- Open the backend folder with Eclipse IDE.
 
-(3) After the project is loaded, you should be able to see it on the Package Explorer window placed on the left hand side.
+- After the project is loaded, you should be able to see it on the Package Explorer window placed on the left hand side.
 
-(4) Expand the project folder and you will be able to see a series of folders. The main ones that we need to focus are:
+- Right-click the project folder and click Run As > Spring Boot App
 
-src/main/java --> It is where our application code resides.
+- The Spring Boot App will start the server on port 8080.
 
-src/main/resources --> We keep the resources needed for our main java code, for example our database properties connection.
+- After that, It is time to open the front-end part of our application and run it on a browser. To do so, open the project folder from visual studio code. Go to index.html, right click from the document and select Open With Live server(This takes into account, your visual studio code has the extension of live server installed).
 
-src/test/java --> It is where all the testing resides
+- The application will open from the browser and we are ready to play with it. You will be presented with a Homepage and a To Do list page.
 
-(5) Right-click the project folder and click Run As > Spring Boot App
+# Testing
 
-(6) The Spring Boot App will start the server on port 8080.
 
-(7) After that, It is time to open the front-end part of our application and run it on a browser. To do so, open the project folder from visual studio code. Go to index.html, right click from the document and select Open With Live server(This takes into account, your visual studio code has the extension of live server installed).
+# Technologies
+- [Maven](https://maven.apache.org/) - Build Tool and Dependency Management
+- [Spring Boot](https://spring.io/projects/spring-boot) - API Development Platform
+- [Java](https://www.java.com/en/) - Back-End Programming Language
+- [MySql](https://www.mysql.com/) - Database
+- [Eclipse](https://www.eclipse.org/) - IDE
+- Visual Studio Code - Code Editor
+- Git - Version Control
+- Jira - Software helping managing the work
+- [HTML5, CSS, JS] - Front-End Web Technologies
 
-(8) The application will open from the browser and we are ready to play with it. You will be presented with a Homepage and a To Do list page.
+# Author
+- David Algie
