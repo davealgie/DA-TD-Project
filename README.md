@@ -42,3 +42,4 @@ In order to get our application setup, we need to follow the below instructions.
 
 - Thank you trainers who have helped me throughout this project.
 - Thank you google for being the fixers of my errors!
+- Shout out to George Whyte for listening to me complain while attempting to fix my issues.
