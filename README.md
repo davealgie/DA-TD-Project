@@ -37,3 +37,8 @@ In order to get our application setup, we need to follow the below instructions.
 
 # Author
 - David Algie
+
+# Acknowledgments
+
+- Thank you trainers who have helped me throughout this project.
+- Thank you google for being the fixers of my errors!
