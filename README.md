@@ -23,7 +23,7 @@ In order to get our application setup, we need to follow the below instructions.
 
 # Running the tests
 
-![JUnitCoverage](https://user-images.githubusercontent.com/18862661/128646064-399602e4-b678-4ea7-ae63-0fc6b3689813.png)
+![JUnittests](https://user-images.githubusercontent.com/18862661/128646115-2089d132-7182-4d0e-8914-777671179c08.png)
 
 The tests have both Integration and Unit tests, to run the integration you right click in tests on the file ToDoTest and run as a Junit, while for the unit tests, do the same for the ToDoUnitTest. JUnit and Integration tests surpass the industry standard requirment of 80%.
 
