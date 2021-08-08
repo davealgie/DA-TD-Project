@@ -17,9 +17,9 @@ In order to get our application setup, we need to follow the below instructions.
 
 - The Spring Boot App will start the server on port 8080.
 
-- After that, It is time to open the front-end part of our application and run it on a browser. To do so, open the project folder from visual studio code. Go to index.html, right click from the document and select Open With Live server(This takes into account, your visual studio code has the extension of live server installed).
+- After that, It is time to open the front-end part of our application and run it on a browser. To do so, open the project folder from visual studio code. Go to html file right click from the document and select Open With Live server(This takes into account, your visual studio code has the extension of live server installed).
 
-- The application will open from the browser and we are ready to play with it. You will be presented with a Homepage and a To Do list page.
+- The application will open from the browser and it is ready to go. You will be presented with a To Do list page in which the action takes place.
 
 # Running the tests
 
