@@ -41,7 +41,7 @@ A chrome web driver was added to the files of the project so that Selenium tests
 - Git - Version Control
 - Jira - Software helping managing the work
 - [HTML5, CSS, JS] - Front-End Web Technologies
-- 
+
 # Author
 - David Algie
 
