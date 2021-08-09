@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TDL Home Page</title>
+    <link rel="stylesheet" href="/FrontEnd/css/style.css">
+</head>
+<body>
+    <h1>Read todo list, add tasks, update tasks or delete tasks, all from this page</h1>
+
+    <div id="getall">
+    <h2>View todo List</h2>
+    <p>Retrieve all tasks on todo list</p>
+    <button id="getallbtn">View todo list</button>
+    <p id="getallpara"></p>
+    <table id="getalltable"></table>
+    </div>
+    
+    <div id="post">
+    <h2>Create new task</h2>
+    <p>Create a new task for the todo list</p>
+    <label for="post1">Task name:</label>
+    <input type="text" name ="post1" id="post1">
+    <br>
+    <label for="post2">Task Priority:</label>
+    <input type="text" name ="post2" id="post2">
+    <button id="postbtn">Create task</button>
+    <p id="postpara"></p>
+    <table id="posttable"></table>
+    </div>
+
+    <div id="put">
+    <h2>Update task</h2>
+    <p>Update an existing task on the todo list</p>
+    <label for="putid" class="putid">Id:</label>
+    <input type="number" name="putid" id="putid" class="putid">
+    <br>
+    <label for="put1">Task name:</label>
+    <input type="text" name ="put1" id="put1">
+    <br>
+    <label for="put2">Task Priority:</label>
+    <input type="text" name ="put2" id="put2">
+    <button id="putbtn">Update task</button>
+    <p id="putpara"></p>
+    <table id="puttable"></table>
+    </div>
+
+    <div id="delete">
+    <h2>Delete task</h2>
+    <p>Remove a task from the todo list</p>
+    <label for="deleteid">Id:</label>
+    <input type="number" name="deleteid" id="deleteid">
+    <br>
+    <button id="deletebtn">Delete task</button>
+    <p id="deletepara"></p>
+    </div>
+<footer><p>Project created by David Algie, August 2021</p></footer>
+    <script src="/FrontEnd/js/app.js"></script>
+</body>
+</html>
